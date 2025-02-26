@@ -84,7 +84,7 @@ define(['pipAPI','/implicit/user/mmarini/LGBT_study_DEF/iat_extension.js'], func
 		
         
 		base_url : {//Where are your images at?
-			image : '/implicit/user/mmarini/LGBT_study_DEF'
+			image : 'https://chiaracode.github.io'
 		},
 			instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Parte blockNum di nBlocks </u><br/><br/></p>' + 
