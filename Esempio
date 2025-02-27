@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/Chiaracode/Iat/blob/main/Mother_esempio'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/Chiaracode/Iat/Mother_esempio'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
